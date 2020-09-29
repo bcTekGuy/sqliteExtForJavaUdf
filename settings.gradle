@@ -1,0 +1,4 @@
+include ':sqlite-android-3330000'
+include ':libSqliteExtForJavaUdf'
+include ':app'
+rootProject.name = "SqliteExtForJavaUdf"

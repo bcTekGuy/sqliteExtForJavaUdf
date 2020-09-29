@@ -4,6 +4,9 @@
 *.ap_
 *.aab
 
+# Sqlite imported project from aar
+sqlite-android*/
+
 # Files for the ART/Dalvik VM
 *.dex
 
